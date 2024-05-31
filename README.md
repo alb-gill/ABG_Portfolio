@@ -1,5 +1,3 @@
-## Data Science Portfolio
-
 ## Education
 MSc. Geographical Information Science
 
