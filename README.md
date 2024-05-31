@@ -1,5 +1,4 @@
-# ABG_Portfolio
-Data Science Portfolio
+## Data Science Portfolio
 
 ## Education
 MSc. Geographical Information Science
